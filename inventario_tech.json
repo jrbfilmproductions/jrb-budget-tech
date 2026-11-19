@@ -1,17 +1,4 @@
 {
-  "timestamp": 1795113844019,
-  "inventario": [
-    {
-      "id": "1795110804785",
-      "categoria": "Soldadura y Microsoldadura",
-      "marca": "movi",
-      "modelo": "samsung",
-      "estado": "Operativo",
-      "cantidadStock": 1,
-      "costeUnitario": 0,
-      "numeroSerie": "",
-      "notas": "",
-      "enMaletin": false
-    }
-  ]
+  "timestamp": 1795113845487,
+  "inventario": []
 }
