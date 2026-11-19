@@ -1,1 +1,29 @@
-{ "timestamp": 1, "inventario": [] }
+{
+  "timestamp": 1795110804785,
+  "inventario": [
+    {
+      "id": "1795110665238",
+      "categoria": "Soldadura y Microsoldadura",
+      "marca": "movil",
+      "modelo": "aaa",
+      "estado": "Operativo",
+      "cantidadStock": 1,
+      "costeUnitario": 0,
+      "numeroSerie": "",
+      "notas": "",
+      "enMaletin": false
+    },
+    {
+      "id": "1795110804785",
+      "categoria": "Soldadura y Microsoldadura",
+      "marca": "movi",
+      "modelo": "samsung",
+      "estado": "Operativo",
+      "cantidadStock": 1,
+      "costeUnitario": 0,
+      "numeroSerie": "",
+      "notas": "",
+      "enMaletin": false
+    }
+  ]
+}
