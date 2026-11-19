@@ -1,1 +1,18 @@
-{ "timestamp": 1, "config": { "contadorFactura": 1 } }
+{
+  "timestamp": 1795111248260,
+  "config": {
+    "contadorFactura": 6,
+    "moneda": "€",
+    "tarifaDiagnosticoInicial": 20,
+    "tarifaManoObraHora": 25,
+    "tarifaMicrosoldaduraHora": 40,
+    "tarifaRecuperacionDatos": 45,
+    "recargoUrgencia": 15,
+    "recargoDomicilio": 10,
+    "garantiaMesesDefault": 3,
+    "tipoImpuesto": "IGIC",
+    "ivaPct": 7,
+    "validezDias": 15,
+    "linkPagoDefault": ""
+  }
+}
