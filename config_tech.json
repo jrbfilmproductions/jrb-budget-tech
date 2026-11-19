@@ -1,7 +1,7 @@
 {
-  "timestamp": 1795111248260,
+  "timestamp": 1795113808738,
   "config": {
-    "contadorFactura": 6,
+    "contadorFactura": 7,
     "moneda": "€",
     "tarifaDiagnosticoInicial": 20,
     "tarifaManoObraHora": 25,
