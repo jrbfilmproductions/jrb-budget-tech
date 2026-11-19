@@ -1,1 +1,27 @@
-{ "timestamp": 1, "clientes": [] }
+{
+  "timestamp": 1795110863924,
+  "clientes": [
+    {
+      "id": "1795110588747",
+      "tipoCliente": "Particular",
+      "nombreOrganizacion": "",
+      "personaContacto": "",
+      "nombre": "paco",
+      "dni": "",
+      "direccion": "",
+      "telefono": "",
+      "correo": ""
+    },
+    {
+      "id": "1795110863924",
+      "tipoCliente": "Particular",
+      "nombreOrganizacion": "",
+      "personaContacto": "",
+      "nombre": "manolo",
+      "dni": "",
+      "direccion": "",
+      "telefono": "",
+      "correo": ""
+    }
+  ]
+}
