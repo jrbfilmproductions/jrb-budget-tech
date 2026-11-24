@@ -1,4 +1,20 @@
 {
-  "timestamp": 1795113833075,
-  "historial": []
+  "historial": [
+    {
+      "id": "TECH-2026-001",
+      "idReferencia": "TECH-2026-001",
+      "cliente": "preueba reparacion",
+      "trabajo": "Consola (PS5 / PS4 / Xbox / Switch)",
+      "fecha": "24/11/2026, 3:30:54",
+      "horas": 1.5,
+      "total": 45,
+      "totalCliente": 45,
+      "beneficio": 45,
+      "esRegalo": false,
+      "estado": "Pendiente",
+      "esFactura": false,
+      "numeroFactura": "",
+      "notas": " • 3 meses garantía"
+    }
+  ]
 }
