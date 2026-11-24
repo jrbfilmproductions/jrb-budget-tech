@@ -1,3 +1,13 @@
-{
-  "historial": []
-}
+[
+  {
+    "id": "TECH-71159",
+    "fecha": "2026-11-24",
+    "cliente": "Cliente Tech",
+    "contacto": "",
+    "equipo": "Dispositivo / Consola",
+    "averia": "Diagnóstico y reparación",
+    "total": 60,
+    "estado": "Aceptado",
+    "pdfFileName": "TECH-71159_Cliente_Tech.pdf"
+  }
+]
