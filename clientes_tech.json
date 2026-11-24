@@ -1,5 +1,4 @@
 {
-  "timestamp": 1795110863924,
   "clientes": [
     {
       "id": "1795110588747",
@@ -20,6 +19,13 @@
       "nombre": "manolo",
       "dni": "",
       "direccion": "",
+      "telefono": "",
+      "correo": ""
+    },
+    {
+      "id": "1795491054474",
+      "tipoCliente": "Particular",
+      "nombre": "preueba reparacion",
       "telefono": "",
       "correo": ""
     }
